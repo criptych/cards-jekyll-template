@@ -10,6 +10,17 @@ user_title: Brandon Nelson
 email: brandon.nelson.1985@gmail.com
 github_username:  bnelson85
 
+authors:
+    brandon:
+        name: Brandon Nelson
+        display_name: Brandon
+        email: brandon.nelson.1985@gmail.com
+        gravatar: 0368d4728466b52456fd01af2fb5a0a4
+        website: https://bnelson85.github.io
+        twitter:
+        github: bnelson85
+        bio:
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
