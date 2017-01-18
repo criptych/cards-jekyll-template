@@ -1,17 +1,37 @@
 # Site settings
 title: Willian Justen - Desenvolvedor Front End
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://skyworkgames.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Skywork Games
+user_description:
+email:
+twitter_username:
+github_username:  skyworkgames
+gplus_username:
+disqus_username:
+
+authors:
+    criptych:
+        name: criptych
+        display_name: criptych
+        email:
+        gravatar: 98247ebda2f6fa35b8070ddc2a98e8a0
+        website: https://criptych.github.io
+        twitter:
+        github: criptych
+        bio:
+    xasio7:
+        name: xasio.7
+        display_name: xasio.7
+        email:
+        gravatar:
+        website: https://github.com/xasio7
+        twitter:
+        github: xasio7
+        bio:
 
 # Build settings
 markdown: kramdown
@@ -35,7 +55,7 @@ links:
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: About
     url: /about
 
 # exclude my node related stuff
